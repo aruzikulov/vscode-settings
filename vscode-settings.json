@@ -1,0 +1,30 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.rulers": [80],
+  "editor.minimap.enabled": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.menuBarVisibility": "toggle",
+  "git.autofetch": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.formatOnSave": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": ["jsx", "html"]
+  },
+  "terminal.integrated.rendererType": "dom",
+  "line-counter.excludes": ["**/.vscode/**", "**/node_modules/**"],
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#383838"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
+
